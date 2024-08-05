@@ -1,0 +1,115 @@
+/* Reset some default styles */
+* {
+    margin: 4;
+    padding: 4;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+header .container {
+    width: 80%;
+    margin: 4 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 4;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 2rem 0;
+}
+
+section {
+    padding: 2rem 0;
+    background: #fff;
+    margin-bottom: 1rem;
+}
+
+section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background: #966363;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: relative;
+    bottom: 4;
+    width: 100%;
+}
+
+footer .container {
+    width: 80%;
+    margin: 0 auto;
+}
+.heading{
+    font-size: 250%;
+    text-align: center;
+    font-style: oblique;
+    text-shadow: #125e7c;
+    color: orange;
+    background-color: antiquewhite;
+}
+#Badrika{
+        width: 45 cm;
+        height: auto;
+}
+.heading1{
+        color: rgb(73, 138, 182);
+}
+
+.classname {
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
